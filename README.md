@@ -1,4 +1,4 @@
-## C interface
+## C interface Mirror
 
 Mirror `C interface` for AngelScript version `2.36.1`.
 
